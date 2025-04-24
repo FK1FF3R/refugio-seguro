@@ -1,0 +1,103 @@
+[
+  {
+    "requestId": "f439a58f-b458-44cb-91ef-9ad28e0d48d2",
+    "timestamp": "2025-04-23T12:29:21.395Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "d34ef465-e96b-49e4-a5f0-3ebc24ecaa2f",
+    "timestamp": "2025-04-23T12:30:04.397Z",
+    "method": "GET",
+    "url": "/ongs?areaAtuacao=cultura",
+    "statusCode": 200,
+    "query": {
+      "areaAtuacao": "cultura"
+    }
+  },
+  {
+    "requestId": "fe0ecf41-fe8f-43dd-9362-8828c78f92c1",
+    "timestamp": "2025-04-23T14:09:44.679Z",
+    "method": "POST",
+    "url": "/ongs",
+    "statusCode": 400,
+    "query": {}
+  },
+  {
+    "requestId": "6965b6a5-0197-4441-a594-90f4730b3dce",
+    "timestamp": "2025-04-23T14:18:00.108Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "7d2f669f-8d67-4635-bb4b-8e5ef6252a8e",
+    "timestamp": "2025-04-23T23:48:59.468Z",
+    "method": "GET",
+    "url": "/ongs?areaAtuacao=educa%C3%A7%C3%A3o&nome=crian%C3%A7a",
+    "statusCode": 404,
+    "query": {
+      "areaAtuacao": "educação",
+      "nome": "criança"
+    }
+  },
+  {
+    "requestId": "58ddf689-7a35-472f-8bcc-d97a89876b17",
+    "timestamp": "2025-04-23T23:49:12.175Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "17408474-510c-4415-98ea-d4b9d779f3d9",
+    "timestamp": "2025-04-23T23:49:20.454Z",
+    "method": "GET",
+    "url": "/ongs/ongs?areaAtuacao=educa%C3%A7%C3%A3o&nome=crian%C3%A7a",
+    "statusCode": 404,
+    "query": {
+      "areaAtuacao": "educação",
+      "nome": "criança"
+    }
+  },
+  {
+    "requestId": "c56bddae-001c-4183-ad66-0a31decfcdeb",
+    "timestamp": "2025-04-23T23:49:32.011Z",
+    "method": "GET",
+    "url": "/ongs?areaAtuacao=educa%C3%A7%C3%A3o&nome=crian%C3%A7a",
+    "statusCode": 404,
+    "query": {
+      "areaAtuacao": "educação",
+      "nome": "criança"
+    }
+  },
+  {
+    "requestId": "89b31611-dd3b-42b3-b02f-6a49972fae08",
+    "timestamp": "2025-04-23T23:49:41.751Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "3960967b-fcc5-4443-bd67-8b07a504733a",
+    "timestamp": "2025-04-24T00:32:44.328Z",
+    "method": "GET",
+    "url": "/ongs?missao=inclusao",
+    "statusCode": 200,
+    "query": {
+      "missao": "inclusao"
+    }
+  },
+  {
+    "requestId": "1c7da295-1261-4885-916a-fc47a5f5cf13",
+    "timestamp": "2025-04-23T21:59:50.009Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  }
+]

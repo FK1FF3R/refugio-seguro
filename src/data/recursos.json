@@ -1,0 +1,297 @@
+[
+  {
+    "id": "fca2fa8d-7d72-4a62-a2ed-ed8961f23ffd",
+    "titulo": "Guia de Voluntariado Digital",
+    "url": "https://voluntariado.org/guia-digital",
+    "tipo": "PDF",
+    "descricao": "Manual completo para ONGs que querem atuar com voluntariado remoto.",
+    "publicoAlvo": "ONGs de pequeno porte",
+    "idioma": "Português",
+    "tags": [
+      "voluntariado",
+      "remoto",
+      "manual",
+      "digital"
+    ]
+  },
+  {
+    "id": "1e8c731c-d627-44e7-b272-88bc628fd8ee",
+    "titulo": "Como denunciar violência doméstica",
+    "url": "https://exemplo.com/denuncia",
+    "tipo": "Jurídico",
+    "descricao": "Passo a passo para formalizar denúncias de violência doméstica junto às autoridades competentes.",
+    "publicoAlvo": "Vítimas de violência doméstica",
+    "idioma": "Português",
+    "tags": [
+      "violência doméstica",
+      "denúncia",
+      "direitos das mulheres"
+    ]
+  },
+  {
+    "id": "0afbf0ad-9212-4f9f-97c2-da90fe853459",
+    "titulo": "Direitos do trabalhador em casos de demissão",
+    "url": "https://exemplo.com/direitos-trabalhistas",
+    "tipo": "Jurídico",
+    "descricao": "Informações sobre verbas rescisórias, prazos e procedimentos em demissões.",
+    "publicoAlvo": "Trabalhadores formais",
+    "idioma": "Português",
+    "tags": [
+      "trabalhista",
+      "demissão",
+      "direitos trabalhistas"
+    ]
+  },
+  {
+    "id": "1606e10d-b36e-42d9-8068-3daf71ab8108",
+    "titulo": "Passo a passo para registrar um boletim de ocorrência online",
+    "url": "https://exemplo.com/boletim-online",
+    "tipo": "Jurídico",
+    "descricao": "Tutorial para registrar BOs virtualmente em diferentes estados brasileiros.",
+    "publicoAlvo": "Vítimas de crimes",
+    "idioma": "Português",
+    "tags": [
+      "boletim de ocorrência",
+      "crime",
+      "polícia"
+    ]
+  },
+  {
+    "id": "3bae9067-1cb7-4cca-b721-d7dbcd1b8a5f",
+    "titulo": "Acolhimento psicológico para vítimas de trauma",
+    "url": "https://exemplo.com/apoio-psicologico",
+    "tipo": "Saúde",
+    "descricao": "Rede de apoio psicológico gratuito para vítimas de violência ou acidentes.",
+    "publicoAlvo": "Pessoas em sofrimento psicológico",
+    "idioma": "Português",
+    "tags": [
+      "saúde mental",
+      "trauma",
+      "apoio psicológico"
+    ]
+  },
+  {
+    "id": "78f2ed3b-68a1-4af9-9b2f-dab4e43386a1",
+    "titulo": "Como acessar o auxílio emergencial",
+    "url": "https://exemplo.com/auxilio-emergencial",
+    "tipo": "Social",
+    "descricao": "Requisitos e procedimentos para solicitação de auxílios governamentais.",
+    "publicoAlvo": "População em vulnerabilidade econômica",
+    "idioma": "Português",
+    "tags": [
+      "auxílio emergencial",
+      "benefício social",
+      "governo"
+    ]
+  },
+  {
+    "id": "eadf8124-5acb-4364-b86a-35365490062d",
+    "titulo": "Orientação sobre pensão alimentícia",
+    "url": "https://exemplo.com/pensao-alimenticia",
+    "tipo": "Jurídico",
+    "descricao": "Direitos e obrigações legais sobre pensão alimentícia para filhos e dependentes.",
+    "publicoAlvo": "Pais e responsáveis",
+    "idioma": "Português",
+    "tags": [
+      "pensão alimentícia",
+      "direito familiar",
+      "alimentos"
+    ]
+  },
+  {
+    "id": "d64eb5af-5342-48b6-b659-368d8b930805",
+    "titulo": "Centros de apoio à população em situação de rua",
+    "url": "https://exemplo.com/apoio-moradores-rua",
+    "tipo": "Social",
+    "descricao": "Lista de abrigos, banheiros públicos e serviços de alimentação gratuita.",
+    "publicoAlvo": "População em situação de rua",
+    "idioma": "Português",
+    "tags": [
+      "moradores de rua",
+      "abrigo",
+      "assistência social"
+    ]
+  },
+  {
+    "id": "138c3c3c-2124-45e9-afbc-0dadf20326dd",
+    "titulo": "Direitos dos imigrantes e refugiados",
+    "url": "https://exemplo.com/direitos-imigrantes",
+    "tipo": "Jurídico",
+    "descricao": "Leis brasileiras que garantem direitos básicos a imigrantes e refugiados.",
+    "publicoAlvo": "Imigrantes e refugiados",
+    "idioma": "Português, Espanhol",
+    "tags": [
+      "imigração",
+      "refúgio",
+      "direitos humanos"
+    ]
+  },
+  {
+    "id": "a3afe95d-f8a2-4a46-8c8a-3e856407806f",
+    "titulo": "Programas de capacitação profissional gratuitos",
+    "url": "https://exemplo.com/capacitacao-profissional",
+    "tipo": "Educação",
+    "descricao": "Cursos técnicos e profissionalizantes oferecidos por governos e ONGs.",
+    "publicoAlvo": "Pessoas em busca de qualificação",
+    "idioma": "Português",
+    "tags": [
+      "capacitação",
+      "cursos gratuitos",
+      "emprego"
+    ]
+  },
+  {
+    "id": "ba3a2908-6f46-4a8d-8d74-29dee9254688",
+    "titulo": "Como regularizar documentos pessoais",
+    "url": "https://exemplo.com/regularizacao-documentos",
+    "tipo": "Jurídico",
+    "descricao": "Processo para emissão de RG, CPF e certidões para pessoas sem documentação.",
+    "publicoAlvo": "População indocumentada",
+    "idioma": "Português",
+    "tags": [
+      "documentação",
+      "regularização",
+      "identidade"
+    ]
+  },
+  {
+    "id": "405558bd-3bed-4ded-9b29-b136bd3cda69",
+    "titulo": "Guia de acesso à saúde pública para imigrantes",
+    "url": "https://exemplo.com/saude-imigrantes",
+    "tipo": "Saúde",
+    "descricao": "Como utilizar o SUS mesmo sem documentos brasileiros.",
+    "publicoAlvo": "Imigrantes",
+    "idioma": "Português, Espanhol, Crioulo Haitiano",
+    "tags": [
+      "saúde pública",
+      "imigrantes",
+      "SUS"
+    ]
+  },
+  {
+    "id": "b1f2b4ac-8647-4e0a-b0e7-15da1c1633f2",
+    "titulo": "Como acessar o SUS sem documentação regular",
+    "url": "https://exemplo.com/sus-sem-documentacao",
+    "tipo": "Saúde",
+    "descricao": "Guia passo a passo para imigrantes e pessoas em situação de rua acessarem serviços de saúde pública sem documentos formais.",
+    "publicoAlvo": "Imigrantes, refugiados, população em situação de rua",
+    "idioma": "Português",
+    "tags": [
+      "SUS",
+      "saúde pública",
+      "imigrantes"
+    ]
+  },
+  {
+    "id": "d43445df-dfa5-4668-a83c-5498802f92f7",
+    "titulo": "Mediação de conflitos familiares gratuita",
+    "url": "https://exemplo.com/mediacao-familiar",
+    "tipo": "Jurídico",
+    "descricao": "Serviços de conciliação para evitar judicialização de disputas familiares.",
+    "publicoAlvo": "Famílias em conflito",
+    "idioma": "Português",
+    "tags": [
+      "conflito familiar",
+      "mediação",
+      "conciliação"
+    ]
+  },
+  {
+    "id": "d3701592-cea1-4569-8299-12d7e0a27fcf",
+    "titulo": "Auxílio moradia para famílias em vulnerabilidade",
+    "url": "https://exemplo.com/auxilio-moradia",
+    "tipo": "Social",
+    "descricao": "Programas governamentais e ONGs que ajudam com aluguel social.",
+    "publicoAlvo": "Famílias em risco de despejo",
+    "idioma": "Português",
+    "tags": [
+      "moradia",
+      "vulnerabilidade",
+      "habitação"
+    ]
+  },
+  {
+    "id": "3669db80-aad4-41a5-a738-bd57b4fb5231",
+    "titulo": "Bolsa de estudo para cursos técnicos",
+    "url": "https://exemplo.com/bolsa-tecnico",
+    "tipo": "Educação",
+    "descricao": "Editais e instituições que oferecem bolsas em cursos profissionalizantes.",
+    "publicoAlvo": "Jovens de baixa renda",
+    "idioma": "Português",
+    "tags": [
+      "bolsa de estudos",
+      "cursos técnicos",
+      "educação"
+    ]
+  },
+  {
+    "id": "ce5ab8c2-c223-46b7-98a9-0c426081f563",
+    "titulo": "Como solicitar reconhecimento de refúgio no Brasil",
+    "url": "https://exemplo.com/reconhecimento-refugio",
+    "tipo": "Jurídico",
+    "descricao": "Documentação necessária e etapas do processo de refúgio.",
+    "publicoAlvo": "Solicitantes de refúgio",
+    "idioma": "Português, Espanhol, Inglês",
+    "tags": [
+      "refúgio",
+      "imigração",
+      "documentação"
+    ]
+  },
+  {
+    "id": "0e19b638-1168-46f4-8d5f-ccb7ce92d398",
+    "titulo": "Atendimento psicológico especializado para LGBTQIAP+",
+    "url": "https://exemplo.com/psicologico-lgbt",
+    "tipo": "Saúde",
+    "descricao": "Rede de psicólogos voluntários para a comunidade LGBTQIAP+.",
+    "publicoAlvo": "Pessoas LGBTQIAP+",
+    "idioma": "Português",
+    "tags": [
+      "LGBTQIAP+",
+      "saúde mental",
+      "inclusão"
+    ]
+  },
+  {
+    "id": "483dab48-d427-4589-b49b-cf46cdba89b0",
+    "titulo": "Direitos das vítimas de violência sexual",
+    "url": "https://exemplo.com/direitos-violencia-sexual",
+    "tipo": "Jurídico",
+    "descricao": "Procedimentos legais e apoio médico-psicológico após agressão sexual.",
+    "publicoAlvo": "Vítimas de violência sexual",
+    "idioma": "Português",
+    "tags": [
+      "violência sexual",
+      "abuso",
+      "direitos"
+    ]
+  },
+  {
+    "id": "d7d406d3-f961-4161-8281-4bc8d31cb8a3",
+    "titulo": "Curso online gratuito de português para refugiados",
+    "url": "https://exemplo.com/portugues-refugiados",
+    "tipo": "Educação",
+    "descricao": "Plataforma de ensino de português como língua de acolhimento.",
+    "publicoAlvo": "Refugiados e imigrantes",
+    "idioma": "Português, Árabe, Francês",
+    "tags": [
+      "português",
+      "refugiados",
+      "língua"
+    ]
+  },
+  {
+    "id": "a196c76c-9890-4b24-89fe-1c1b30f1ff59",
+    "titulo": "Apoio alimentar: cestas básicas e restaurantes populares",
+    "url": "https://exemplo.com/apoio-alimentar",
+    "tipo": "Social",
+    "descricao": "Locais e critérios para receber alimentação gratuita ou subsidiada.",
+    "publicoAlvo": "Famílias em insegurança alimentar",
+    "idioma": "Português",
+    "tags": [
+      "cesta básica",
+      "fome zero",
+      "alimentação"
+    ]
+  }
+]

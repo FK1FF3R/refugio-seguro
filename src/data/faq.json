@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "pergunta": "Como posso encontrar abrigos próximos a mim?",
+      "resposta": "Na seção 'Abrigos' do aplicativo, você pode buscar por localização ou utilizar seu GPS para encontrar os abrigos mais próximos da sua região. Os resultados incluem endereço completo e informações de contato."
+    },
+    {
+      "id": 2,
+      "pergunta": "Quem pode acessar os serviços jurídicos oferecidos?",
+      "resposta": "Nossos serviços jurídicos estão disponíveis para todos os usuários da plataforma, com prioridade para refugiados, vítimas de violência doméstica e populações em situação de vulnerabilidade social."
+    },
+    {
+      "id": 3,
+      "pergunta": "As ONGs listadas na plataforma são verificadas?",
+      "resposta": "Sim, todas as ONGs passam por um processo de verificação que inclui documentação legal e visita técnica antes de serem cadastradas em nosso sistema."
+    },
+    {
+      "id": 4,
+      "pergunta": "Como atualizar informações incorretas sobre um abrigo?",
+      "resposta": "Caso encontre informações desatualizadas, você pode: 1) Clicar no botão 'Reportar erro' no perfil do abrigo, ou 2) Entrar em contato conosco pelo e-mail contato@refugioseguro.org.br"
+    },
+    {
+      "id": 5,
+      "pergunta": "Preciso de documentação específica para acessar os serviços?",
+      "resposta": "A maioria dos serviços não requer documentação, especialmente os de acolhimento emergencial. Para serviços jurídicos, alguns documentos podem ser necessários dependendo do caso, mas nossa equipe pode orientá-lo no processo."
+    },
+    {
+      "id": 6,
+      "pergunta": "Como funcionam os cursos de capacitação profissional?",
+      "resposta": "Os cursos são gratuitos e oferecidos por nossas ONGs parceiras. Basta se inscrever diretamente no perfil da ONG que oferece o curso desejado. Algumas formações são online e outras presenciais."
+    },
+    {
+      "id": 7,
+      "pergunta": "A plataforma oferece suporte em outros idiomas?",
+      "resposta": "Atualmente temos suporte básico em espanhol, inglês e francês. Você pode alterar o idioma nas configurações do aplicativo. Estamos trabalhando para incluir mais idiomas."
+    },
+    {
+      "id": 8,
+      "pergunta": "Como posso ajudar como voluntário?",
+      "resposta": "Acesse a seção 'Quero Ajudar' no menu principal, onde você encontrará oportunidades de voluntariado nas ONGs parceiras, classificadas por área de atuação e região."
+    },
+    {
+      "id": 9,
+      "pergunta": "Os serviços têm custo?",
+      "resposta": "Todos os serviços listados em nossa plataforma são gratuitos para os beneficiários. Algumas ONGs podem oferecer serviços adicionais com custo, mas isso será sempre explicitamente informado."
+    },
+    {
+      "id": 10,
+      "pergunta": "Como é protegida a minha privacidade na plataforma?",
+      "resposta": "Utilizamos criptografia de dados e não compartilhamos suas informações pessoais sem autorização. Você pode controlar quais dados são visíveis em suas configurações de privacidade."
+    }
+  ]

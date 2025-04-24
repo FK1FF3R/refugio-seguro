@@ -1,0 +1,96 @@
+[
+  {
+    "requestId": "131ad255-f73e-43bb-a72b-3aa209efa7fd",
+    "timestamp": "2025-04-23T12:25:23.827Z",
+    "method": "GET",
+    "url": "/faq",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "dbd5da43-93be-4796-bb1f-2bf62098ffd3",
+    "timestamp": "2025-04-23T12:54:58.167Z",
+    "method": "GET",
+    "url": "/faq",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "adee1ded-c8f2-422a-8593-b4394fea07f0",
+    "timestamp": "2025-04-23T12:55:12.300Z",
+    "method": "POST",
+    "url": "/faq",
+    "statusCode": 404,
+    "query": {}
+  },
+  {
+    "requestId": "11bd59f1-8b4c-4c58-9bac-769dc9610169",
+    "timestamp": "2025-04-23T13:21:58.915Z",
+    "method": "GET",
+    "url": "/faq",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "62f99be6-0fa1-4612-9827-2a3cf8a571f7",
+    "timestamp": "2025-04-23T14:17:50.141Z",
+    "method": "GET",
+    "url": "/faq",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "ba0d2d5e-54d6-480e-8131-f7ac0ed3a4cf",
+    "timestamp": "2025-04-23T22:00:26.176Z",
+    "method": "GET",
+    "url": "/faq",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "ad7edcb2-8109-4d70-9ae8-4f981d5629b1",
+    "timestamp": "2025-04-23T23:49:54.799Z",
+    "method": "GET",
+    "url": "/faq?tipo",
+    "statusCode": 200,
+    "query": {
+      "tipo": ""
+    }
+  },
+  {
+    "requestId": "98e6e36a-6353-45c1-90a1-7a94ac73b352",
+    "timestamp": "2025-04-23T23:50:02.905Z",
+    "method": "GET",
+    "url": "/faq?tipo%2F",
+    "statusCode": 200,
+    "query": {
+      "tipo/": ""
+    }
+  },
+  {
+    "requestId": "34c1e8b3-0750-45b8-bda7-54b70d5640a9",
+    "timestamp": "2025-04-23T23:50:05.885Z",
+    "method": "GET",
+    "url": "/faq?tipo%2Fgf",
+    "statusCode": 200,
+    "query": {
+      "tipo/gf": ""
+    }
+  },
+  {
+    "requestId": "18863b46-85b3-4a6a-ba12-befb2d1d3904",
+    "timestamp": "2025-04-23T18:56:43.420Z",
+    "method": "GET",
+    "url": "/faq",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "cac31bc9-6cee-4545-9203-fa7a24918add",
+    "timestamp": "2025-04-23T21:57:40.827Z",
+    "method": "GET",
+    "url": "/faq",
+    "statusCode": 200,
+    "query": {}
+  }
+]

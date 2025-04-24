@@ -1,0 +1,206 @@
+[
+  {
+    "requestId": "7061cda2-5ef8-428f-8e92-554f0e282097",
+    "timestamp": "2025-04-23T12:19:08.402Z",
+    "method": "GET",
+    "url": "/apoiojuridico",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "860716b1-3f85-4b72-a478-35a57987f35f",
+    "timestamp": "2025-04-23T12:19:38.367Z",
+    "method": "GET",
+    "url": "/apoiojuridico?disponivel=true",
+    "statusCode": 200,
+    "query": {
+      "disponivel": "true"
+    }
+  },
+  {
+    "requestId": "e2e52f78-16bb-4006-9194-35c02549dc16",
+    "timestamp": "2025-04-23T12:19:57.032Z",
+    "method": "GET",
+    "url": "/apoiojuridico?estado=SP",
+    "statusCode": 200,
+    "query": {
+      "estado": "SP"
+    }
+  },
+  {
+    "requestId": "6fae4c0a-ba32-47bf-9a9c-3ddbbb09ac2e",
+    "timestamp": "2025-04-23T14:07:01.360Z",
+    "method": "POST",
+    "url": "/apoiojuridico",
+    "statusCode": 400,
+    "body": {
+      "nome": "Posto SC de Atendimento a Migrantes",
+      "estado": "SC",
+      "cidade": "Joinville"
+    }
+  },
+  {
+    "requestId": "9cf4531c-c5f1-42d1-ace1-2f4522170a5e",
+    "timestamp": "2025-04-23T14:08:10.360Z",
+    "method": "POST",
+    "url": "/apoiojuridico",
+    "statusCode": 400,
+    "body": {
+      "nome": "Posto SC de Atendimento a Migrantes",
+      "estado": "SC",
+      "cidade": "Joinville"
+    }
+  },
+  {
+    "requestId": "de26aa63-132f-4e0d-94d5-4d429227af91",
+    "timestamp": "2025-04-23T14:12:21.273Z",
+    "method": "GET",
+    "url": "/apoiojuridico",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "8d42ea3c-0db2-4056-abf8-c9d2c4702ce9",
+    "timestamp": "2025-04-23T14:17:23.572Z",
+    "method": "GET",
+    "url": "/apoiojuridico",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "ba0f134c-b2a2-49be-b1c9-dc69c38c5efb",
+    "timestamp": "2025-04-23T21:53:37.241Z",
+    "method": "GET",
+    "url": "/apoiojuridico",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "53ad80f6-8c69-4359-9eda-7e0604a441a9",
+    "timestamp": "2025-04-23T21:55:42.641Z",
+    "method": "GET",
+    "url": "/apoiojuridico?tiposervico=assistencia",
+    "statusCode": 200,
+    "query": {
+      "tiposervico": "assistencia"
+    }
+  },
+  {
+    "requestId": "b5b0a06c-4526-45be-839f-ac86cb00a5c5",
+    "timestamp": "2025-04-23T21:56:00.479Z",
+    "method": "GET",
+    "url": "/apoiojuridico?tipoServico=assistencia",
+    "statusCode": 200,
+    "query": {
+      "tipoServico": "assistencia"
+    }
+  },
+  {
+    "requestId": "21263d0a-caa8-449e-872e-d765f31e8861",
+    "timestamp": "2025-04-23T21:56:22.213Z",
+    "method": "GET",
+    "url": "/apoiojuridico?tipo",
+    "statusCode": 200,
+    "query": {
+      "tipo": ""
+    }
+  },
+  {
+    "requestId": "aa562944-ffac-403f-8b2b-78ad5f95c71f",
+    "timestamp": "2025-04-23T21:56:36.083Z",
+    "method": "GET",
+    "url": "/apoiojuridico?tipoServico=teste",
+    "statusCode": 404,
+    "query": {
+      "tipoServico": "teste"
+    }
+  },
+  {
+    "requestId": "36fe852e-698c-4493-967d-1d199fdf1728",
+    "timestamp": "2025-04-23T21:57:44.942Z",
+    "method": "GET",
+    "url": "/apoiojuridico?tipoServico=teste",
+    "statusCode": 500,
+    "query": {
+      "tipoServico": "teste"
+    }
+  },
+  {
+    "requestId": "a4fdde43-a520-4696-a7c2-522f7afcc447",
+    "timestamp": "2025-04-23T21:59:33.709Z",
+    "method": "POST",
+    "url": "/apoiojuridico",
+    "statusCode": 400,
+    "body": {
+      "nome": "Posto SC de Atendimento a Migrantes",
+      "estado": "SC",
+      "cidade": "Joinville"
+    }
+  },
+  {
+    "requestId": "72c50174-60cb-4e71-8ef1-6bbc5701f9c5",
+    "timestamp": "2025-04-23T23:38:47.023Z",
+    "method": "GET",
+    "url": "/apoiojuridico?estado=SaoPaulo&tipoServico=consumidor&disponivel=true",
+    "statusCode": 404,
+    "query": {
+      "estado": "SaoPaulo",
+      "tipoServico": "consumidor",
+      "disponivel": "true"
+    }
+  },
+  {
+    "requestId": "a2853765-74d5-44fd-b8f8-ab48629b626a",
+    "timestamp": "2025-04-23T23:39:31.003Z",
+    "method": "GET",
+    "url": "/apoiojuridico?estado=SaoPaulo&tipoServico=assistencia&disponivel=true",
+    "statusCode": 404,
+    "query": {
+      "estado": "SaoPaulo",
+      "tipoServico": "assistencia",
+      "disponivel": "true"
+    }
+  },
+  {
+    "requestId": "3dd180c0-2acd-4923-a38e-b4f3a64d2ae2",
+    "timestamp": "2025-04-23T23:48:47.032Z",
+    "method": "GET",
+    "url": "/apoiojuridico",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "ecece786-4023-4cce-a785-aa056807849b",
+    "timestamp": "2025-04-24T00:10:10.683Z",
+    "method": "GET",
+    "url": "/apoiojuridico?estado=RJ",
+    "statusCode": 200,
+    "query": {
+      "estado": "RJ"
+    }
+  },
+  {
+    "requestId": "125babdd-7bbe-4b7b-b826-c4cdc3069e6b",
+    "timestamp": "2025-04-24T00:27:19.669Z",
+    "method": "GET",
+    "url": "/apoiojuridico",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "20668f4b-67c2-48f4-817d-7fcaaefc69db",
+    "timestamp": "2025-04-24T00:27:41.060Z",
+    "method": "GET",
+    "url": "/apoiojuridico",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "bf93d577-34e5-4783-9ab3-d8c1ae2792fc",
+    "timestamp": "2025-04-23T21:54:43.543Z",
+    "method": "GET",
+    "url": "/apoiojuridico",
+    "statusCode": 200,
+    "query": {}
+  }
+]

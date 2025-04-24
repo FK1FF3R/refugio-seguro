@@ -1,0 +1,183 @@
+[
+  {
+    "id": "9776f247-c9f7-49e7-b479-cc1cc024cb80",
+    "nome": "Instituto Esperança",
+    "missao": "Promover a inclusão social através da educação e cultura.",
+    "contatos": {
+      "telefone": "(11) 99999-9999",
+      "email": "contato@institutoesperanca.org"
+    },
+    "areaAtuacao": [
+      "Educação",
+      "Cultura"
+    ],
+    "redesSociais": {
+      "site": "https://institutoesperanca.org",
+      "facebook": "https://facebook.com/institutoesperanca",
+      "instagram": "https://instagram.com/institutoesperanca"
+    }
+  },
+  {
+    "id": "7fb67ffa-02e6-467a-a7e3-28b0533902ab",
+    "nome": "Instituto Sou da Paz",
+    "missao": "Contribuir para a efetivação de políticas públicas de segurança e justiça.",
+    "contatos": {
+      "telefone": "(11) 3812-1333",
+      "email": "contato@soudapaz.org"
+    },
+    "areaAtuacao": [
+      "Segurança pública",
+      "Justiça"
+    ],
+    "redesSociais": {
+      "site": "https://www.soudapaz.org",
+      "facebook": "soudapaz",
+      "instagram": "@soudapaz"
+    }
+  },
+  {
+    "id": "a7b6f7f3-4546-4612-8ed2-1097cc261519",
+    "nome": "Instituto Ethos",
+    "missao": "Promover a responsabilidade social empresarial e o desenvolvimento sustentável.",
+    "contatos": {
+      "telefone": "(11) 3897-2400",
+      "email": "ethos@ethos.org.br"
+    },
+    "areaAtuacao": [
+      "Responsabilidade social",
+      "Desenvolvimento sustentável"
+    ],
+    "redesSociais": {
+      "site": "https://www.ethos.org.br",
+      "facebook": "InstitutoEthos",
+      "instagram": "@institutoethos"
+    }
+  },
+  {
+    "id": "c09b3372-f5da-4fbc-90d1-cdf3c85d498e",
+    "nome": "Instituto Brasileiro de Direito da Criança e do Adolescente",
+    "missao": "Defender e promover os direitos de crianças e adolescentes.",
+    "contatos": {
+      "telefone": "(41) 3076-1113",
+      "email": "contato@ibdc.org.br"
+    },
+    "areaAtuacao": [
+      "Direitos da criança e adolescente"
+    ],
+    "redesSociais": {
+      "site": "https://www.ibdc.org.br",
+      "facebook": "ibdc.ong",
+      "instagram": "@ibdc.ong"
+    }
+  },
+  {
+    "id": "ecd446ce-3b11-4d43-b60c-c75840ea9068",
+    "nome": "Instituto Gerando Falcões",
+    "missao": "Transformar vidas em comunidades pobres através do esporte, cultura e capacitação profissional.",
+    "contatos": {
+      "telefone": "(11) 2503-9020",
+      "email": "contato@gerandofalcoes.com"
+    },
+    "areaAtuacao": [
+      "Desenvolvimento comunitário",
+      "Educação",
+      "Esporte"
+    ],
+    "redesSociais": {
+      "site": "https://www.gerandofalcoes.com",
+      "facebook": "gerandofalcoes",
+      "instagram": "@gerandofalcoes"
+    }
+  },
+  {
+    "id": "e2bea1b7-ec33-4d26-828a-16a42c77f370",
+    "nome": "Aldeias Infantis SOS Brasil",
+    "missao": "Proteger crianças e adolescentes que perderam ou estão em risco de perder os cuidados familiares.",
+    "contatos": {
+      "telefone": "(11) 4003-5335",
+      "email": "contato@aldeiasinfantis.org.br"
+    },
+    "areaAtuacao": [
+      "Proteção infantil",
+      "Acolhimento"
+    ],
+    "redesSociais": {
+      "site": "https://www.aldeiasinfantis.org.br",
+      "facebook": "aldeiasinfantisbrasil",
+      "instagram": "@aldeiasinfantisbrasil"
+    }
+  },
+  {
+    "id": "b7b73768-f9b5-4df4-b9be-f6f7d8215b7d",
+    "nome": "Instituto Migrações e Direitos Humanos",
+    "missao": "Promover e defender os direitos humanos de migrantes, refugiados e apátridas.",
+    "contatos": {
+      "telefone": "(61) 3340-2689",
+      "email": "contato@migrante.org.br"
+    },
+    "areaAtuacao": [
+      "Direitos dos migrantes",
+      "Refúgio"
+    ],
+    "redesSociais": {
+      "site": "https://www.migrante.org.br",
+      "facebook": "IMDHDF",
+      "instagram": "@imdhdf"
+    }
+  },
+  {
+    "id": "eca48e6a-baea-4b84-bb5e-e9fcd56cb51a",
+    "nome": "Casa 1",
+    "missao": "Acolhimento e promoção de direitos para a população LGBTQIAP+ em situação de vulnerabilidade.",
+    "contatos": {
+      "telefone": "(11) 3106-2186",
+      "email": "contato@casaum.org"
+    },
+    "areaAtuacao": [
+      "Direitos LGBTQIAP+",
+      "Acolhimento"
+    ],
+    "redesSociais": {
+      "site": "https://www.casaum.org",
+      "facebook": "casa1sp",
+      "instagram": "@casa1sp"
+    }
+  },
+  {
+    "id": "876385a6-f8d3-4fe8-951a-2bcba48f0ab9",
+    "nome": "Instituto Maria da Penha",
+    "missao": "Prevenir e combater a violência contra a mulher.",
+    "contatos": {
+      "telefone": "(85) 4009-4009",
+      "email": "imp@institutomariadapenha.org.br"
+    },
+    "areaAtuacao": [
+      "Violência doméstica",
+      "Direitos das mulheres"
+    ],
+    "redesSociais": {
+      "site": "https://www.institutomariadapenha.org.br",
+      "facebook": "InstitutoMariaDaPenha",
+      "instagram": "@institutomariadapenha"
+    }
+  },
+  {
+    "id": "017d0392-9a05-47e9-8efe-df8ce2166779",
+    "nome": "Instituto Reação",
+    "missao": "Promover o desenvolvimento humano e a inclusão social através do esporte e educação.",
+    "contatos": {
+      "telefone": "(21) 2480-6044",
+      "email": "contato@institutoreacao.org.br"
+    },
+    "areaAtuacao": [
+      "Educação",
+      "Esporte",
+      "Inclusão social"
+    ],
+    "redesSociais": {
+      "site": "https://www.institutoreacao.org.br",
+      "facebook": "InstitutoReacao",
+      "instagram": "@institutoreacao"
+    }
+  }
+]

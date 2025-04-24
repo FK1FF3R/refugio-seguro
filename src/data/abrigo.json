@@ -1,0 +1,189 @@
+[
+  {
+    "id": "51655307-52b8-4125-acf1-4934d6330375",
+    "nome": "Lar da Esperança",
+    "estado": "GO",
+    "cidade": "Goiânia",
+    "endereco": "Avenida Anhanguera, 1414",
+    "telefone": "(62) 8899-0011",
+    "publico": "Pessoas com deficiência em vulnerabilidade",
+    "capacidade": 15,
+    "tipo": "Abrigo acessível"
+  },
+  {
+    "id": "16cabd43-676d-414b-83fd-50075c9ea174",
+    "nome": "Recanto do Sol",
+    "estado": "RN",
+    "cidade": "Natal",
+    "endereco": "Rua do Atalaia, 1313",
+    "telefone": "(84) 7788-9900",
+    "publico": "Vítimas de desastres naturais",
+    "capacidade": 25,
+    "tipo": "Abrigo emergencial"
+  },
+  {
+    "id": "d3d03c6e-b191-46c2-a49f-45d3be46bab2",
+    "nome": "Casa do Caminho",
+    "estado": "DF",
+    "cidade": "Brasília",
+    "endereco": "Setor de Abrigos Sul, Quadra 1212",
+    "telefone": "(61) 6677-8899",
+    "publico": "Pessoas em trânsito entre estados",
+    "capacidade": 40,
+    "tipo": "Abrigo de passagem"
+  },
+  {
+    "id": "2f4e5990-7785-4fae-b4a0-0a235535001b",
+    "nome": "Casa Amiga",
+    "estado": "SP",
+    "cidade": "São Paulo",
+    "endereco": "Rua Acolhimento, 123",
+    "telefone": "(11) 9876-5432",
+    "publico": "Mulheres e crianças",
+    "capacidade": 20,
+    "tipo": "Abrigo de emergência"
+  },
+  {
+    "id": "8401fff6-b62d-405d-be00-cc3bd4b3e677",
+    "nome": "Lar Solidário",
+    "estado": "RJ",
+    "cidade": "Rio de Janeiro",
+    "endereco": "Avenida Abraço, 456",
+    "telefone": "(21) 9999-8888",
+    "publico": "LGBTQIA+",
+    "capacidade": 15,
+    "tipo": "Abrigo temporário"
+  },
+  {
+    "id": "881a24d3-ad38-43d3-b098-e347d1eb8a37",
+    "nome": "Refúgio Esperança",
+    "estado": "MG",
+    "cidade": "Belo Horizonte",
+    "endereco": "Praça da Solidariedade, 789",
+    "telefone": "(31) 7777-6666",
+    "publico": "Vítimas de violência doméstica",
+    "capacidade": 30,
+    "tipo": "Casa de passagem"
+  },
+  {
+    "id": "324e46be-1f21-4060-b841-4faacc480eda",
+    "nome": "Porto Seguro",
+    "estado": "RS",
+    "cidade": "Porto Alegre",
+    "endereco": "Travessa do Acolhimento, 101",
+    "telefone": "(51) 1234-5678",
+    "publico": "Refugiados",
+    "capacidade": 25,
+    "tipo": "Abrigo humanitário"
+  },
+  {
+    "id": "326ce17b-599c-46f4-a0ff-d23bba274419",
+    "nome": "Lar da Criança",
+    "estado": "BA",
+    "cidade": "Salvador",
+    "endereco": "Alameda dos Sonhos, 202",
+    "telefone": "(71) 5555-4444",
+    "publico": "Crianças e adolescentes",
+    "capacidade": 40,
+    "tipo": "Abrigo infantil"
+  },
+  {
+    "id": "cb4767b5-1031-4df6-a64f-f219026a3adc",
+    "nome": "Casa Aurora",
+    "estado": "CE",
+    "cidade": "Fortaleza",
+    "endereco": "Beco da Esperança, 303",
+    "telefone": "(85) 3333-2222",
+    "publico": "Mulheres em situação de rua",
+    "capacidade": 12,
+    "tipo": "Casa de apoio"
+  },
+  {
+    "id": "6dd1e7d4-9a34-4bb6-92cd-6382ed21c9f8",
+    "nome": "Abrigo Nova Vida",
+    "estado": "PE",
+    "cidade": "Recife",
+    "endereco": "Rua da Renovação, 404",
+    "telefone": "(81) 2222-1111",
+    "publico": "Vítimas de trabalho escravo",
+    "capacidade": 18,
+    "tipo": "Abrigo social"
+  },
+  {
+    "id": "8a4d0dd8-5b4d-4e48-a7c8-e3f325d2b265",
+    "nome": "Lar Fraterno",
+    "estado": "SC",
+    "cidade": "Florianópolis",
+    "endereco": "Rua da Fraternidade, 505",
+    "telefone": "(48) 3434-5656",
+    "publico": "Idosos em situação de vulnerabilidade",
+    "capacidade": 22,
+    "tipo": "Abrigo geriátrico"
+  },
+  {
+    "id": "659e2107-f42c-46ca-a73f-ae73df754a7a",
+    "nome": "Casa Renascer",
+    "estado": "PR",
+    "cidade": "Curitiba",
+    "endereco": "Avenida da Recuperação, 606",
+    "telefone": "(41) 9988-7766",
+    "publico": "Dependentes químicos em reabilitação",
+    "capacidade": 35,
+    "tipo": "Abrigo terapêutico"
+  },
+  {
+    "id": "1837a3cb-c315-4413-9c86-032f642168d3",
+    "nome": "Refúgio das Artes",
+    "estado": "RJ",
+    "cidade": "Niterói",
+    "endereco": "Travessa dos Artistas, 707",
+    "telefone": "(21) 8877-6655",
+    "publico": "Jovens artistas em situação de rua",
+    "capacidade": 15,
+    "tipo": "Abrigo cultural"
+  },
+  {
+    "id": "579ed8ac-8573-447a-8d73-62b596d76edb",
+    "nome": "Lar Materno",
+    "estado": "SP",
+    "cidade": "Campinas",
+    "endereco": "Alameda Materna, 808",
+    "telefone": "(19) 2233-4455",
+    "publico": "Mães com filhos recém-nascidos",
+    "capacidade": 18,
+    "tipo": "Abrigo materno-infantil"
+  },
+  {
+    "id": "901d124b-293c-41c1-98cc-209d0da84574",
+    "nome": "Porto da Paz",
+    "estado": "AM",
+    "cidade": "Manaus",
+    "endereco": "Estrada da Harmonia, 909",
+    "telefone": "(92) 3344-5566",
+    "publico": "Vítimas de conflitos armados",
+    "capacidade": 28,
+    "tipo": "Abrigo humanitário"
+  },
+  {
+    "id": "4f6fecf5-2e4c-4cf8-ab02-73cb34b98c53",
+    "nome": "Casa Verde",
+    "estado": "PA",
+    "cidade": "Belém",
+    "endereco": "Rodovia Ecológica, 1010",
+    "telefone": "(91) 4455-6677",
+    "publico": "Comunidades tradicionais desabrigadas",
+    "capacidade": 20,
+    "tipo": "Abrigo ecológico"
+  },
+  {
+    "id": "37da1958-5df9-4e25-b746-74da63725f0b",
+    "nome": "Lar do Norte",
+    "estado": "RR",
+    "cidade": "Boa Vista",
+    "endereco": "Boulevard Setentrional, 1111",
+    "telefone": "(95) 5566-7788",
+    "publico": "Migrantes venezuelanos",
+    "capacidade": 50,
+    "tipo": "Abrigo de fronteira"
+  }
+]

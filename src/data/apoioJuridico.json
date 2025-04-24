@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1a2ba625-aed3-4039-a6ff-6804447f4080",
+    "nome": "Defensoria Pública de SP",
+    "estado": "SP",
+    "cidade": "São Paulo",
+    "tipoServico": "Assistência jurídica gratuita",
+    "disponivel": true,
+    "telefone": "(11) 3333-4444",
+    "endereco": "Rua das Palmeiras, 100",
+    "horarioFuncionamento": "Seg-Sex: 8h-17h"
+  },
+  {
+    "id": "b2ecc0dc-9a2c-44dd-8446-a89fb6ef1707",
+    "nome": "Centro de Apoio Legal RJ",
+    "estado": "RJ",
+    "cidade": "Rio de Janeiro",
+    "tipoServico": "Orientação jurídica inicial",
+    "disponivel": false,
+    "telefone": "(21) 99999-0000",
+    "endereco": "Avenida Paulista, 200",
+    "horarioFuncionamento": "Seg-Sex: 9h-18h"
+  },
+  {
+    "id": "4k1l7f8g-3j6k-0l8g-5i49-l9m23n1j6k7l",
+    "nome": "Projeto Legal Amazonas",
+    "estado": "AM",
+    "cidade": "Manaus",
+    "tipoServico": "Consultoria jurídica comunitária",
+    "telefone": "(92) 3333-1234",
+    "endereco": "Rua das Lendas, 55",
+    "horarioFuncionamento": "Seg-Sex: 9h-17h",
+    "disponivel": true
+  },
+  {
+    "id": "5l2m8g9h-4k7l-1m9h-6j50-m0n34o2k7l8m",
+    "nome": "Centro de Apoio Jurídico do Pará",
+    "estado": "PA",
+    "cidade": "Belém",
+    "tipoServico": "Defesa em processos judiciais",
+    "telefone": "(91) 98765-4321",
+    "endereco": "Avenida Liberdade, 100, Bairro Nazaré",
+    "horarioFuncionamento": "Seg-Sex: 8h-18h, Sáb: 9h-12h",
+    "disponivel": true
+  },
+  {
+    "id": "8o5p1j2k-7n0o-4p2k-9m83-p3q67r5n0o1p",
+    "nome": "Núcleo de Direitos Humanos de Rondônia",
+    "estado": "RO",
+    "cidade": "Porto Velho",
+    "tipoServico": "Assessoria em direitos humanos",
+    "telefone": "(69) 3300-7890",
+    "endereco": "Rua das Oliveiras, 300",
+    "horarioFuncionamento": "Seg-Sex: 8h-16h",
+    "disponivel": true
+  },
+  {
+    "id": "0q7r3l4m-9p2q-6r4m-1o05-r5s89t7p2q3r",
+    "nome": "Centro de Referência BA para Refugiados",
+    "estado": "BA",
+    "cidade": "Salvador",
+    "tipoServico": "Apoio jurídico para imigrantes",
+    "telefone": "(71) 3500-1234",
+    "endereco": "Ladeira da Esperança, 150, Pelourinho",
+    "horarioFuncionamento": "Seg-Sex: 9h-17h",
+    "disponivel": true
+  },
+  {
+    "id": "3t0u6o7p-2s5t-9u7p-4r38-u8v12w0s5t6u",
+    "nome": "Casa de Passagem PB para Refugiados",
+    "estado": "PB",
+    "cidade": "João Pessoa",
+    "tipoServico": "Orientação legal básica",
+    "telefone": "(83) 3300-3456",
+    "endereco": "Rua da Harmonia, 700",
+    "horarioFuncionamento": "Seg-Dom: 10h-22h",
+    "disponivel": true
+  },
+  {
+    "id": "9z6a2u3v-8y1z-5a3v-0x94-a4b78c6y1z2a",
+    "nome": "Centro de Referência DF para Refugiados",
+    "estado": "DF",
+    "cidade": "Brasília",
+    "tipoServico": "Assessoria para documentação",
+    "telefone": "(61) 3900-7890",
+    "endereco": "Setor de Embaixadas, Lote 10",
+    "horarioFuncionamento": "Seg-Sex: 10h-16h",
+    "disponivel": true
+  },
+  {
+    "id": "2c9d5x6y-1b4c-8d6y-3a27-d7e01f9b4c5d",
+    "nome": "Centro Capixaba de Acolhimento a Refugiados",
+    "estado": "ES",
+    "cidade": "Vitória",
+    "tipoServico": "Mediação de conflitos",
+    "telefone": "(27) 3200-1234",
+    "endereco": "Rua da Convivência, 150, Centro",
+    "horarioFuncionamento": "Seg-Sex: 8h-18h, Sáb: 9h-12h",
+    "disponivel": true
+  },
+  {
+    "id": "1a2ba625-aed3-4039-a6ff-6804447f4080",
+    "nome": "Abrigo PR para Famílias em Trânsito",
+    "estado": "PR",
+    "cidade": "Londrina",
+    "tipoServico": "Apoio jurídico emergencial",
+    "telefone": "(43) 3300-5678",
+    "endereco": "Avenida da Reconstrução, 500",
+    "horarioFuncionamento": "24 horas",
+    "disponivel": true
+  }
+]
