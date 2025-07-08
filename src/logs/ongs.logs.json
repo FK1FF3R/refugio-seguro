@@ -1,100 +1,215 @@
 [
   {
-    "requestId": "f439a58f-b458-44cb-91ef-9ad28e0d48d2",
-    "timestamp": "2025-04-23T12:29:21.395Z",
+    "requestId": "c3336bf1-b07a-409e-bf06-957d4e40ac5c",
+    "timestamp": "2025-07-07T17:34:31.552Z",
     "method": "GET",
     "url": "/ongs",
     "statusCode": 200,
     "query": {}
   },
   {
-    "requestId": "d34ef465-e96b-49e4-a5f0-3ebc24ecaa2f",
-    "timestamp": "2025-04-23T12:30:04.397Z",
-    "method": "GET",
-    "url": "/ongs?areaAtuacao=cultura",
-    "statusCode": 200,
-    "query": {
-      "areaAtuacao": "cultura"
-    }
-  },
-  {
-    "requestId": "fe0ecf41-fe8f-43dd-9362-8828c78f92c1",
-    "timestamp": "2025-04-23T14:09:44.679Z",
-    "method": "POST",
-    "url": "/ongs",
-    "statusCode": 400,
-    "query": {}
-  },
-  {
-    "requestId": "6965b6a5-0197-4441-a594-90f4730b3dce",
-    "timestamp": "2025-04-23T14:18:00.108Z",
+    "requestId": "dc0578ab-f7a9-40ff-8d8d-942ad417b5a3",
+    "timestamp": "2025-07-07T17:34:31.924Z",
     "method": "GET",
     "url": "/ongs",
     "statusCode": 200,
     "query": {}
   },
   {
-    "requestId": "7d2f669f-8d67-4635-bb4b-8e5ef6252a8e",
-    "timestamp": "2025-04-23T23:48:59.468Z",
-    "method": "GET",
-    "url": "/ongs?areaAtuacao=educa%C3%A7%C3%A3o&nome=crian%C3%A7a",
-    "statusCode": 404,
-    "query": {
-      "areaAtuacao": "educação",
-      "nome": "criança"
-    }
-  },
-  {
-    "requestId": "58ddf689-7a35-472f-8bcc-d97a89876b17",
-    "timestamp": "2025-04-23T23:49:12.175Z",
+    "requestId": "d0cc3a9c-6c65-480f-9156-d5d9bd5c392c",
+    "timestamp": "2025-07-07T17:34:38.184Z",
     "method": "GET",
     "url": "/ongs",
     "statusCode": 200,
     "query": {}
   },
   {
-    "requestId": "17408474-510c-4415-98ea-d4b9d779f3d9",
-    "timestamp": "2025-04-23T23:49:20.454Z",
-    "method": "GET",
-    "url": "/ongs/ongs?areaAtuacao=educa%C3%A7%C3%A3o&nome=crian%C3%A7a",
-    "statusCode": 404,
-    "query": {
-      "areaAtuacao": "educação",
-      "nome": "criança"
-    }
-  },
-  {
-    "requestId": "c56bddae-001c-4183-ad66-0a31decfcdeb",
-    "timestamp": "2025-04-23T23:49:32.011Z",
-    "method": "GET",
-    "url": "/ongs?areaAtuacao=educa%C3%A7%C3%A3o&nome=crian%C3%A7a",
-    "statusCode": 404,
-    "query": {
-      "areaAtuacao": "educação",
-      "nome": "criança"
-    }
-  },
-  {
-    "requestId": "89b31611-dd3b-42b3-b02f-6a49972fae08",
-    "timestamp": "2025-04-23T23:49:41.751Z",
+    "requestId": "57c92cb4-a882-48d6-adc9-7d935948bf9d",
+    "timestamp": "2025-07-08T08:25:22.464Z",
     "method": "GET",
     "url": "/ongs",
     "statusCode": 200,
     "query": {}
   },
   {
-    "requestId": "3960967b-fcc5-4443-bd67-8b07a504733a",
-    "timestamp": "2025-04-24T00:32:44.328Z",
+    "requestId": "0c5b05d7-764f-4e93-ba5c-68699bdb4fe7",
+    "timestamp": "2025-07-08T08:36:38.843Z",
     "method": "GET",
-    "url": "/ongs?missao=inclusao",
+    "url": "/ongs",
     "statusCode": 200,
-    "query": {
-      "missao": "inclusao"
-    }
+    "query": {}
   },
   {
-    "requestId": "1c7da295-1261-4885-916a-fc47a5f5cf13",
-    "timestamp": "2025-04-23T21:59:50.009Z",
+    "requestId": "e76441c8-2cb4-45c6-8573-7a0d861e652a",
+    "timestamp": "2025-07-08T08:37:17.577Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "55a84f25-4f75-4e19-bbf0-247c289964dc",
+    "timestamp": "2025-07-08T09:43:14.931Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "91ebfee3-3758-48f8-afea-ccdbcda839c7",
+    "timestamp": "2025-07-08T10:17:58.627Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "6d2a4e8c-68a5-44d1-afba-81bd6fc76f68",
+    "timestamp": "2025-07-08T11:29:58.896Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "111ac60f-6404-4725-90fc-f5303012c624",
+    "timestamp": "2025-07-08T11:57:52.137Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "9f80d2e1-c5bd-4af1-afac-869fc666901a",
+    "timestamp": "2025-07-08T12:04:19.882Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "a6de2844-9e47-41da-be53-6ac8a6202803",
+    "timestamp": "2025-07-08T12:04:22.020Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "60d0f2ba-f0e4-4656-a706-f0204c08953c",
+    "timestamp": "2025-07-08T12:04:24.727Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "c5843dc8-3010-49fd-b0f2-01aaf29b9706",
+    "timestamp": "2025-07-08T12:05:40.561Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "2f22301d-1554-415d-a11b-e815519363d0",
+    "timestamp": "2025-07-08T12:06:03.399Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "23a2e825-8192-4d5e-8b95-1640e270a838",
+    "timestamp": "2025-07-08T12:06:10.336Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "0f23adce-ce5b-4135-a201-5629177f39ee",
+    "timestamp": "2025-07-08T12:09:01.221Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "d09b05cf-c46b-4a2d-b772-57664c499ae2",
+    "timestamp": "2025-07-08T12:16:43.325Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "4d04278d-e544-4401-997b-d380b81ee17f",
+    "timestamp": "2025-07-08T13:07:43.369Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "35737c35-146d-4467-b6ca-1095329be2f5",
+    "timestamp": "2025-07-08T13:15:06.249Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "7cff2c84-bbb2-4c64-a7db-a4b80e83d957",
+    "timestamp": "2025-07-08T13:17:27.330Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "d65ab33e-e67d-4cbe-b678-1d9c2d76e5b2",
+    "timestamp": "2025-07-08T13:17:39.310Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "73251f10-42e2-4d95-9c98-1d24a50de444",
+    "timestamp": "2025-07-08T13:18:06.076Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "d6f32890-43ab-4427-9931-23aaf0605a83",
+    "timestamp": "2025-07-08T13:46:31.999Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "5f5e2fb5-6be2-4860-97c3-94cd31cce72c",
+    "timestamp": "2025-07-08T13:53:25.169Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "c5d81535-21aa-4391-92bb-e5099826437f",
+    "timestamp": "2025-07-08T13:53:43.394Z",
+    "method": "GET",
+    "url": "/ongs",
+    "statusCode": 200,
+    "query": {}
+  },
+  {
+    "requestId": "b207337d-cf41-4bd5-bd63-cc0fb7b6feb4",
+    "timestamp": "2025-07-08T13:58:25.206Z",
     "method": "GET",
     "url": "/ongs",
     "statusCode": 200,

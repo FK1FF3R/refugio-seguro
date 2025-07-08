@@ -9,7 +9,7 @@ import faqRoute from '../src/routes/faq.routes.js';
 const app = express();
 app.use(cors());
 app.use(express.json());
-const PORT = 3000;
+const PORT = 3001;
 
 app.use('/abrigos', abrigosRoute);
 app.use('/apoiojuridico', apoioJuridicoRoute);

@@ -271,5 +271,215 @@
     "method": "GET",
     "url": "/abrigos",
     "statusCode": 200
+  },
+  {
+    "requestId": "86a770af-1c4f-4b3b-aa2f-9bee0107497e",
+    "timestamp": "2025-07-07T16:58:41.252Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "c8d56e94-4e08-46c1-92f3-91943529850c",
+    "timestamp": "2025-07-07T17:30:52.059Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 304
+  },
+  {
+    "requestId": "d4c5c78e-1f1b-48f2-893d-20e4f68be966",
+    "timestamp": "2025-07-07T17:34:31.324Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "5e3f2188-a5e8-4239-ba91-e22d2a78903a",
+    "timestamp": "2025-07-07T17:34:31.550Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "e22deb8b-a811-4422-b69a-da08a7a6f24d",
+    "timestamp": "2025-07-07T17:34:31.924Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "e675aa0a-f686-4d16-9e89-dd3d964deb06",
+    "timestamp": "2025-07-07T17:34:38.464Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "4adb3e01-8452-4109-b642-5a90c4b7ed00",
+    "timestamp": "2025-07-08T08:25:22.461Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "4813e160-b0e4-48ed-a53f-ebc6d4cfe090",
+    "timestamp": "2025-07-08T08:36:38.832Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "939acfb7-2ff9-4e5d-92f8-39b72c6c323b",
+    "timestamp": "2025-07-08T08:37:17.573Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "dbf57a85-403e-4491-86e5-c7ffa713e00f",
+    "timestamp": "2025-07-08T09:43:14.924Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "317e8d4b-d680-41a8-bff3-2032a60bece8",
+    "timestamp": "2025-07-08T10:17:58.588Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "fc2419c2-d8ce-44a6-beb6-e47049305ad4",
+    "timestamp": "2025-07-08T11:29:58.887Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "7e99acc7-314d-4bb8-a8f5-92eae0cd1aa7",
+    "timestamp": "2025-07-08T11:57:52.174Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "86fcd199-9b7f-431c-9213-e45da70de8ea",
+    "timestamp": "2025-07-08T12:04:19.859Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "e6433044-082e-4bb0-8b92-d879985c7e0f",
+    "timestamp": "2025-07-08T12:04:22.018Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "d41f52fb-e3af-4c1b-8758-8647dfa62b3c",
+    "timestamp": "2025-07-08T12:04:24.725Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "c60b91a9-bd5c-4649-8dd0-74502f94090d",
+    "timestamp": "2025-07-08T12:05:40.553Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "0dbd18c8-d2ec-4503-abb1-83c770617acd",
+    "timestamp": "2025-07-08T12:06:03.398Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "e07a038a-d28f-4fb5-a290-4f0fb3f772b6",
+    "timestamp": "2025-07-08T12:06:10.333Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "74e257ef-fa74-49fd-89ee-5f91d75c86c6",
+    "timestamp": "2025-07-08T12:09:01.219Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "7b7924d1-c5fe-43a7-b074-6547f1a86ca2",
+    "timestamp": "2025-07-08T12:16:43.189Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "3895a0d8-3c49-4581-80dc-3959da768577",
+    "timestamp": "2025-07-08T13:07:43.331Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "5a8e805d-9752-48e9-af44-a4d2ce81a2ae",
+    "timestamp": "2025-07-08T13:15:06.221Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "a9c6a231-c045-48f2-ab74-d2d157e18d74",
+    "timestamp": "2025-07-08T13:17:27.328Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "afdcb7ff-27d3-454c-8e21-3aa366eb608d",
+    "timestamp": "2025-07-08T13:17:39.306Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "7c23f06d-bf21-4aa4-a627-4e3c1ba53c55",
+    "timestamp": "2025-07-08T13:18:06.074Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "dc048636-828f-4f44-a3aa-4a70ecce2bc1",
+    "timestamp": "2025-07-08T13:46:32.085Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "0b53814a-c24d-45ed-9dfd-cd149784c0c3",
+    "timestamp": "2025-07-08T13:53:25.129Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "b54f3d78-a380-43b7-89b6-288b54f2494a",
+    "timestamp": "2025-07-08T13:53:43.393Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
+  },
+  {
+    "requestId": "21ed50f3-15cf-4cb2-b668-e083891a524d",
+    "timestamp": "2025-07-08T13:58:25.153Z",
+    "method": "GET",
+    "url": "/abrigos",
+    "statusCode": 200
   }
 ]
